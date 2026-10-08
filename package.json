@@ -1,0 +1,23 @@
+{
+  "name": "language-translation-tool",
+  "version": "1.0.0",
+  "description": "A web-based language translation tool using Node.js, Python, and Argos Translate.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "language-translation",
+    "translation-tool",
+    "argos-translate",
+    "nodejs",
+    "python"
+  ],
+  "author": "Ankit Kumar",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
